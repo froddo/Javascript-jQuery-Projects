@@ -17,6 +17,7 @@ include 'inc/check_login.php';
 
     <header>
         <a href="session.php" class="button">Logout</a>
+        <button class="dell" id="deleteLastElement">Delete</button>
         <h1>ChatBox</h1>
     </header>
     <div id="shouts">
